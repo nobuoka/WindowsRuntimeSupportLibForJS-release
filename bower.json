@@ -1,0 +1,22 @@
+{
+  "name": "winrsjs",
+  "homepage": "https://github.com/nobuoka/WindowsRuntimeSupportLibForJS",
+  "authors": [
+    "NOBUOKA Yu"
+  ],
+  "description": "This library provides useful fuculties to be used on developing Windows store apps with JavaScript.",
+  "main": [],
+  "moduleType": [],
+  "keywords": [
+    "WinRT",
+    "Windows Universal Platform"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
